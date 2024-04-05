@@ -1,5 +1,5 @@
 HASTANE KAYIT SISTEMI
-Bu projede hastaların doktorların ve sekreterlerin kayıt olabildiği, sisteme giriş yapabildiği ve detaylı bilgilerine bakabilir ve randevu alınabilir.
+Bu projede hastaların doktorların ve sekreterlerin kayıt olabildiği, sisteme giriş yapabildiği, detaylı bilgilerine bakabildiği ve randevu alabildiği bir uygulamadır. Windows Forms App(.Net Framework) ile yapılmıştır.
 
 Giriş Sayfası
 
